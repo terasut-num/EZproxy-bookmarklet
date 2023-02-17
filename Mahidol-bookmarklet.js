@@ -1,0 +1,1 @@
+javascript:window.open('https://ejournal.mahidol.ac.th/login?url='+location.href).focus();
