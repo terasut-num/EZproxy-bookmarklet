@@ -19,7 +19,7 @@
 
 **Step 2: Using the bookmarklet [Figure 2]**
 
-	• 1) To access the Mahidol E-database from the page you are on, simply click this bookmark.
+	• To access the Mahidol E-database from the page you are on, simply click this bookmark.
  
 <img src="https://user-images.githubusercontent.com/118581170/219703107-26af6901-8a7f-4b25-afa0-d796b942f6fd.png" width="720">
 
