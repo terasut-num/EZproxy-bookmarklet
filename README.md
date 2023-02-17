@@ -1,2 +1,3 @@
 # EZproxy-bookmarklet
- Javascipt: Access through EZproxy
+How to use this bookmarklet?
+
