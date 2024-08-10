@@ -74,8 +74,8 @@ async function convertDoiToPmid(doi) {
 
 // Main Process
 async function main() {
-    const baseSfx = .............................; // Replace with your SFX Base URL
-	const pmidSfx = '?sid=Entrez:PubMed&id=pmid:';
+    const baseSfx = .............................; // Replace with your SFX Base URL (server)
+const pmidSfx = '?sid=Entrez:PubMed&id=pmid:';
     let allDoi = document.documentElement.innerHTML.match(/10\.\d{4,9}\/[-._;()\/:A-Z0-9]+/ig);
 
     if (window.location.hostname === 'journals.sagepub.com') {
